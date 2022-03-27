@@ -1,6 +1,3 @@
----
-description: Инструкции по сдаче лабораторных работ
----
+# Task A
 
-# README
-
+Hello world
