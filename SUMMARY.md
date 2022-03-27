@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Методические рекоммендации](README.md)
 
 ## Group 1
 
