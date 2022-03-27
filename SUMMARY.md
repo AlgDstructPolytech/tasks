@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Методичка](README.md)
+* [О курсе](README.md)
 
 ## Семестр 1 <a href="#sem-1" id="sem-1"></a>
 
