@@ -9,3 +9,7 @@
 * [Task C](sem-1/task-c.md)
 * [Task D](sem-1/task-d.md)
 * [Task E](sem-1/task-e.md)
+
+## Семестр 2 <a href="#sem-2" id="sem-2"></a>
+
+* [Lab F](sem-2/lab-f.md)
