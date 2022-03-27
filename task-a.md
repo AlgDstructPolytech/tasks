@@ -1,3 +1,0 @@
-# Task A
-
-Hello
