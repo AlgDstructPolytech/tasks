@@ -1,3 +1,2 @@
-# Task A
+# Методичка
 
-Hello world
